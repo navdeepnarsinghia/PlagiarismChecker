@@ -1,0 +1,2 @@
+# PlagiarismChecker
+This is a Plagiarism checker which will rank documents based on similarity. The program builds its indexes and IR model based on a set of training corpus and performs all the pre-processing which it deems necessary. Then the model takes another document from the test set and ranks all the training set documents with respect to closeness from the test document in consideration and compute similarity with test document.
